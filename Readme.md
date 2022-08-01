@@ -1,4 +1,10 @@
 # TypeScript-Node-Docker
+
+Install package
+```shell
+npm install
+```
+
 Build 
 ```shell
 $ npm run build
